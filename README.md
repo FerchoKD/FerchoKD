@@ -19,7 +19,7 @@ I am a student.<br>I enjoy working in teams.<br>I am a Java developer.<br>I lear
 ![](https://github-contributor-stats.vercel.app/api?username=FerchoKD&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://pin.it/49snbSV)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FerchoKD&icon=7&color=0)](https://visitcount.itsvg.in)
